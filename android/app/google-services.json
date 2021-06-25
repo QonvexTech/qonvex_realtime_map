@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074033755188",
+    "firebase_url": "https://obrero-default-rtdb.firebaseio.com",
+    "project_id": "obrero",
+    "storage_bucket": "obrero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074033755188:android:cc311fc27a1a2cb9613661",
+        "android_client_info": {
+          "package_name": "com.ohmconception.obrero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074033755188-qktaaq8nad73cqmjlm96ko8ianrblvm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE__T2ff0_Uq-Oqv7EevojT9bk_gLDpPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074033755188-qktaaq8nad73cqmjlm96ko8ianrblvm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074033755188-0c81o5s25uq9mk9bqi5n5smju186j1tk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ohmconception.obrero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
